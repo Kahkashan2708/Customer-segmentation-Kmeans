@@ -37,7 +37,7 @@ The dataset used is **Mall_Customers.csv**, which includes the following columns
 6. **Visualization**  
    - Plotted the clusters 
    - Labeled cluster centroids for interpretability.
-   -  ![Customer-segmentation-kmeans](clusters.png)
+   -  ![Customer-segmentation-kmeans](Visualization of Clusters.png)
 
 
 ---
